@@ -128,9 +128,5 @@ FullAdder.v
 MUX_21.v
 MUX_41.v
 ALU_8b_tb.v
-LogicBlk_tb.v
-ArithBlk_tb.v
-FullAdder_tb.v
-MUX_21_tb.v
-MUX_41_tb.v
+
 
